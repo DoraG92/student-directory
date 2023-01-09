@@ -2,7 +2,7 @@
 
 The student directory scrip allows you to manage the list of students enrolled at Makers.
 
-## How to sue
+## How to use
 
 ```shell
 ruby directory.rb
