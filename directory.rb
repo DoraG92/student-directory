@@ -53,3 +53,5 @@ def input_students
   end
   students
 end
+
+interactive_menu
